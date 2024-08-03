@@ -1,0 +1,15 @@
+.product{
+    width: 200px;
+    border: 1px solid black;
+   display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+}
+
+.product img{
+    width: 100px;
+}
+
+.product-items{
+    display: flex;
+}

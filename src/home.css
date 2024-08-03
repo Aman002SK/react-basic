@@ -1,0 +1,28 @@
+.main{
+    margin: 10px;
+    width:100%;
+    align-items: center;
+    overflow: hidden;
+}
+
+.list-item{
+    width: 30%;
+  display: flex;
+  
+    
+}
+
+
+
+.img img{
+    width: 10%;
+}
+
+.data-items{
+   display: flex;
+   gap: 10px;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-items: center;
+
+}
